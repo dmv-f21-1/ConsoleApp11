@@ -7,6 +7,8 @@ namespace ConsoleApp11
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Vare v = new Vare();
+            v.VareId = 1;
         }
     }
 }
